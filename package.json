@@ -1,0 +1,26 @@
+{
+    "name": "formsystem",
+    "version": "0.0.1",
+    "description": "A webapp to host forms",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mcmogaming/FromSystem.git"
+    },
+    "keywords": [
+        "form",
+        "webapp"
+    ],
+    "author": "mcmogaming",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/mcmogaming/FromSystem/issues"
+    },
+    "homepage": "https://github.com/mcmogaming/FromSystem#readme",
+    "dependencies": {
+        "express": "^4.17.1"
+    }
+}
